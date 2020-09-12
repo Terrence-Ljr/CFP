@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599727759015.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BE76CABE",
+    "lastKnownWriteTime" : 46,
+    "last_content_update" : 1599727759015,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E69439A8",
+        "caption" : "dataIDtest",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=E69439A8",
+        "displayedObservations" : 239,
+        "environment" : "_rs_no_env",
+        "expression" : "structure(list(prov = c(\"Anhui\", \"Anhui\", \"Anhui\", \"Anhui\", \"Anhui\",  \"Anhui\", \"Anhui\", \"Anhui\", \"Beijing\", \"Beijing\", \"Beijing\", \"Beijing\",  \"Beijing\", \"Beijing\", \"Beijing\", \"Beijing\", \"Beijing\", \"Beijing\",  \"Beijing\", \"Beijing\", \"Beijing\", \"Beijing\", \"Beijing\", \"Chongqing\",  \"Chongqing\", \"Chongqing\", \"Chongqing\", \"Fujian\", \"Fujian\", \"Fujian\",  \"Fujian\", \"Hunan\", \"Hunan\", \"Hunan\", \"Hunan\", \"Hunan\", \"Hunan\",  \"Hunan\", \"Hunan\", \"Guangdong\", \"Guangdong\", \"Guangdong\", \"Guangdong\",  \"Guangdong\", \"Guangdong\", \"Guangdong\", \"Gansu\", \"Guangxi\", \"Guangxi\",  \"Guangxi\", \"Guizhou\", \"Hebei\", \"Hebei\", \"Hebei\", \"Hebei\", \"Hebei\",  \"Hebei\", \"Hebei\", \"Hebei\", \"Hebei\", \"Hebei\", \"Hebei\", \"Hebei\",  \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\",  \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\",  \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\",  \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\", \"Hubei\",  \"Hubei\", \"Hubei\", \"Hubei\", \"Heilongjiang\", \"Heilongjiang\", \"Heilongjiang\",  \"Henan\", \"Henan\", \"Henan\", \"Henan\", \"Henan\", \"Henan\", \"Henan\",  \"Henan\", \"Henan\", \"Jilin\", \"Jilin\", \"Jiangsu\", \"Jiangsu\", \"Jiangsu\",  \"Jiangsu\", \"Jiangsu\", \"Jiangsu\", \"Jiangsu\", \"Jiangsu\", \"Jiangsu\",  \"Jiangsu\", \"Jiangsu\", \"Jiangsu\", \"Jiangsu\", \"Jiangsu\", \"Jiangsu\",  \"Jiangsu\", \"Jiangxi\", \"Jiangxi\", \"Jiangxi\", \"Jiangxi\", \"Jiangxi\",  \"Jiangxi\", \"Jiangxi\", \"Jiangxi\", \"Jiangxi\", \"Jiangxi\", \"Jiangxi\",  \"Jiangxi\", \"Liaoning\", \"Liaoning\", \"Liaoning\", \"Liaoning\", \"Liaoning\",  \"Liaoning\", \"Liaoning\", \"Liaoning\", \"Liaoning\", \"Liaoning\", \"Inner Mongolia\",  \"Inner Mongolia\", \"Inner Mongolia\", \"Ningxia\", \"Ningxia\", \"Ningxia\",  \"Shaanxi\", \"Sichuan\", \"Sichuan\", \"Sichuan\", \"Sichuan\", \"Sichuan\",  \"Sichuan\", \"Sichuan\", \"Sichuan\", \"Sichuan\", \"Shandong\", \"Shandong\",  \"Shandong\", \"Shandong\", \"Shandong\", \"Shandong\", \"Shandong\", \"Shandong\",  \"Shandong\", \"Shandong\", \"Shandong\", \"Shandong\", \"Shanghai\", \"Shanghai\",  \"Shanghai\", \"Shanghai\", \"Shanghai\", \"Shanghai\", \"Shanghai\", \"Shanghai\",  \"Shanghai\", \"Shanghai\", \"Shanghai\", \"Shanghai\", \"Shanghai\", \"Shanghai\",  \"Shanghai\", \"Shanxi\", \"Shanxi\", \"Shanxi\", \"Shanxi\", \"Shanxi\",  \"Shanxi\", \"Shanxi\", \"Shanxi\", \"Hainan\", \"Tianjin\", \"Tianjin\",  \"Tianjin\", \"Tianjin\", \"Yunnan\", \"Zhejiang\", \"Zhejiang\", \"Zhejiang\",  \"Zhejiang\", \"Zhejiang\", \"Zhejiang\", \"Zhejiang\", \"Zhejiang\", \"Zhejiang\",  \"Zhejiang\", \"Zhejiang\", \"Zhejiang\", \"Zhejiang\", \"Zhejiang\", \"Zhejiang\",  \"Zhejiang\", \"Zhejiang\", \"Zhejiang\", \"Hubei\", \"Hubei\", \"Hubei\",  \"Hubei\", \"Hubei\", \"Hubei\", \"Zhejiang\", \"Fujian\", \"Shanxi\", \"Heilongjiang\",  \"Heilongjiang\", \"Anhui\", \"Hainan\", \"Xinjiang\", \"Xinjiang\", \"Shaanxi\",  \"Jiangsu\", \"Jiangsu\"), DD = c(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,  0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)), class = c(\"tbl_df\",  \"tbl\", \"data.frame\"), row.names = c(NA, -239L))",
+        "object" : "",
+        "preview" : 0,
+        "totalObservations" : 239,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

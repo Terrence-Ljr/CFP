@@ -1,0 +1,4 @@
+dir <- tempdir()
+download.file('https://czxb.github.io/br/chinadf.rda', 
+              file.path(dir, 'chinadf.rda'))
+load(file.path(dir, 'chinadf.rda'), verbose = TRUE)

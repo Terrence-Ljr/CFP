@@ -1,0 +1,4 @@
+Note on version 0.97
+
+- CRT score corrected!
+- Highschool grade still missing. Will be included in version 1.0
