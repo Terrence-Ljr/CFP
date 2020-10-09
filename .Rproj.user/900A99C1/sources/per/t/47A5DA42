@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602231348997.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "47A5DA42",
+    "lastKnownWriteTime" : 4404647392376401440,
+    "last_content_update" : 1602231348997,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "978A0550",
+        "caption" : "dataIDdistri",
+        "contentUrl" : "grid_resource/gridviewer.html?env=_rs_no_env&obj=&cache_key=978A0550",
+        "displayedObservations" : "2",
+        "environment" : "_rs_no_env",
+        "expression" : "structure(list(North = c(0, 1), n = c(42L, 22L)), row.names = c(NA,  -2L), class = c(\"grouped_df\", \"tbl_df\", \"tbl\", \"data.frame\"), groups = structure(list(     North = c(0, 1), .rows = list(1L, 2L)), row.names = c(NA,  -2L), class = c(\"tbl_df\", \"tbl\", \"data.frame\"), .drop = TRUE))",
+        "object" : "",
+        "preview" : "0",
+        "totalObservations" : "2",
+        "variables" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

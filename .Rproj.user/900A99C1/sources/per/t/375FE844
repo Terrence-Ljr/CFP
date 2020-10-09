@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599384998222.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2645179699",
+    "id" : "375FE844",
+    "lastKnownWriteTime" : 1602235492,
+    "last_content_update" : 1602235492391,
+    "path" : "~/Desktop/CFP/CFproject.R",
+    "project_path" : "CFproject.R",
+    "properties" : {
+        "cursorPosition" : "507,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "493",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
